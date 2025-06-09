@@ -1,8 +1,8 @@
 :root {
   --cor-bg: #f5f6fa;
-  --cor-texto: #1e1e2f;
-  --cor-primaria: #6C63FF;
-  --cor-secundaria: #FF6584;
+  --cor-texto: #2f1e2d;
+  --cor-primaria: #ff63f7;
+  --cor-secundaria: #ff65f2;
   --cor-bg-dark: #121212;
   --cor-texto-dark: #f1f1f1;
   --cor-card-dark: #1f1f1f;
@@ -35,7 +35,7 @@ header {
   align-items: center;
   font-size: 1.2rem;
   background: linear-gradient(90deg, var(--cor-primaria), var(--cor-secundaria));
-  color: white;
+  color: rgb(255, 255, 255);
   box-shadow: 0 2px 12px rgba(0,0,0,0.2);
   border-bottom-left-radius: 0.75rem;
   border-bottom-right-radius: 0.75rem;
